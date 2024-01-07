@@ -1,3 +1,4 @@
+# THIS FILE ONLY USED ONCE, TO CREATE DATABASE
 import MySQLdb
 
 # create database connection
